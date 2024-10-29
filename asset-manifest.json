@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/delta-testapp/static/css/main.835e2594.css",
+    "main.js": "/delta-testapp/static/js/main.956b7d1f.js",
+    "static/js/453.dc072285.chunk.js": "/delta-testapp/static/js/453.dc072285.chunk.js",
+    "static/media/logo.svg": "/delta-testapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/delta-testapp/index.html",
+    "main.835e2594.css.map": "/delta-testapp/static/css/main.835e2594.css.map",
+    "main.956b7d1f.js.map": "/delta-testapp/static/js/main.956b7d1f.js.map",
+    "453.dc072285.chunk.js.map": "/delta-testapp/static/js/453.dc072285.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.835e2594.css",
+    "static/js/main.956b7d1f.js"
+  ]
+}
